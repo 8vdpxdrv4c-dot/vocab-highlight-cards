@@ -2,7 +2,7 @@
 
 识别书页/文章照片里被彩色下划线或荧光笔高亮的英文单词，自动生成一个自包含 HTML 单词注记页：
 
-![demo](https://aka.doubaocdn.com/s/ICgpzNnpkZ)
+![demo](https://aka.doubaocdn.com/s/Czv8x3IRV2)
 
 - 中央保留原照片，左右两列排单词卡
 - 手账风卡片：彩色顶栏（单词+词性+喇叭发音）+ 音标 + 中文释义 + 英文例句（附中文翻译）
